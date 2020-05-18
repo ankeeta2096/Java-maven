@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed May 13 12:05:14 IST 2020
+org.eclipse.jst.j2ee.server\:mavenweb=C\:\\Users\\Ankita\\Downloads\\apache-tomcat-8.5.54-windows-x64\\apache-tomcat-8.5.54\\wtpwebapps\\mavenweb
+org.eclipse.jst.jee.server\:FilePicker=C\:\\Users\\Ankita\\Downloads\\apache-tomcat-8.5.54-windows-x64\\apache-tomcat-8.5.54\\wtpwebapps\\FilePicker
+org.eclipse.jst.j2ee.server\:mavendemo2=C\:\\Users\\Ankita\\Downloads\\apache-tomcat-8.5.54-windows-x64\\apache-tomcat-8.5.54\\wtpwebapps\\mavendemo2

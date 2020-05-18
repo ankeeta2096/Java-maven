@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizard-EclipseTeamProjectWizard">
+	</section>
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.connect.OAuth2DeviceFlowCallbackDialog">
+		<item key="SINCE" value="05/11/20 12:38:48"/>
+		<item key="VIEWS" value="3"/>
+		<item key="ACCUMULATED_OPEN_TIME" value="52151"/>
+		<item key="TIME_COUNTS" value="3"/>
+		<item key="DIALOG_ORIGIN_X" value="491"/>
+		<item key="DIALOG_ORIGIN_Y" value="144"/>
+		<item key="DIALOG_WIDTH" value="384"/>
+		<item key="DIALOG_HEIGHT" value="223"/>
+	</section>
+	<section name="wizard-ShareWizard">
+	</section>
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.connect.ServerListDialog">
+		<item key="SINCE" value="05/12/20 12:14:58"/>
+		<item key="VIEWS" value="2"/>
+		<item key="ACCUMULATED_OPEN_TIME" value="433390"/>
+		<item key="TIME_COUNTS" value="2"/>
+		<item key="DIALOG_ORIGIN_X" value="306"/>
+		<item key="DIALOG_ORIGIN_Y" value="56"/>
+		<item key="DIALOG_WIDTH" value="754"/>
+		<item key="DIALOG_HEIGHT" value="362"/>
+	</section>
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.connect.AddServerDialog">
+		<item key="SINCE" value="05/12/20 12:15:02"/>
+		<item key="VIEWS" value="3"/>
+		<item key="ACCUMULATED_OPEN_TIME" value="72386"/>
+		<item key="TIME_COUNTS" value="3"/>
+		<item key="DIALOG_ORIGIN_X" value="433"/>
+		<item key="DIALOG_ORIGIN_Y" value="27"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="315"/>
+	</section>
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.connect.CredentialsDialog">
+		<item key="SINCE" value="05/12/20 12:15:31"/>
+		<item key="VIEWS" value="1"/>
+		<item key="ACCUMULATED_OPEN_TIME" value="8417"/>
+		<item key="TIME_COUNTS" value="1"/>
+		<item key="DIALOG_ORIGIN_X" value="439"/>
+		<item key="DIALOG_ORIGIN_Y" value="32"/>
+		<item key="DIALOG_WIDTH" value="489"/>
+		<item key="DIALOG_HEIGHT" value="228"/>
+	</section>
+</section>
