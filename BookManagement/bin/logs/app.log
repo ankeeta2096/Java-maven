@@ -1,0 +1,27 @@
+2020-02-26 14:24:26,065 INFO c.c.b.BookManagementApplication [main] Starting BookManagementApplication on bansarid-w10 with PID 8516 (started by bansarid in C:\Users\bansarid\Desktop\New folder\SpringSTS\BookManagement)
+2020-02-26 14:24:26,096 DEBUG c.c.b.BookManagementApplication [main] Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2020-02-26 14:24:26,096 INFO c.c.b.BookManagementApplication [main] No active profile set, falling back to default profiles: default
+2020-02-26 14:24:30,247 DEBUG c.c.b.BookManagementApplication [main] Log4j appender configuration is successful !!
+2020-02-26 14:24:30,247 INFO c.c.b.BookManagementApplication [main] Info log
+2020-02-26 14:24:30,255 WARN c.c.b.BookManagementApplication [main] Hey, This is a warning!
+2020-02-26 14:24:30,255 ERROR c.c.b.BookManagementApplication [main] Oops! We have an Error. OK
+2020-02-26 14:24:30,255 FATAL c.c.b.BookManagementApplication [main] Damn! Fatal error. Please fix me.
+2020-02-26 14:24:30,256 INFO c.c.b.BookManagementApplication [main] Started BookManagementApplication in 4.41 seconds (JVM running for 5.573)
+2020-02-26 14:24:49,910 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-1] On Index Page....home controller
+2020-02-26 14:24:49,981 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-1] In GetAll method of BookserviceImpl
+2020-02-26 14:24:52,634 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-3] In Search method of BookServiceImpl
+2020-02-26 14:24:52,634 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-3] Book to be searched.....In search controller
+2020-02-26 14:24:56,222 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-5] On Index Page....home controller
+2020-02-26 14:24:56,226 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-5] In GetAll method of BookserviceImpl
+2020-02-26 14:24:58,488 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-4] In GetAll method of BookserviceImpl
+2020-02-26 14:24:58,488 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-4] Getting all book List.....In getAll controller
+2020-02-26 14:25:05,030 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-6] Book to be edited.....In editBook controller
+2020-02-26 14:25:11,524 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-8] In save method of BookServiceImpl
+2020-02-26 14:25:14,349 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-9] On Index Page....home controller
+2020-02-26 14:25:14,353 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-9] In GetAll method of BookserviceImpl
+2020-02-26 14:25:15,777 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-1] Adding book....In addBook controller
+2020-02-26 14:26:29,707 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-5] In save method of BookServiceImpl
+2020-02-26 14:26:32,885 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-4] On Index Page....home controller
+2020-02-26 14:26:32,889 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-4] In GetAll method of BookserviceImpl
+2020-02-26 14:26:35,508 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-7] On Index Page....home controller
+2020-02-26 14:26:35,513 INFO c.c.b.BookManagementApplication [http-nio-8080-exec-7] In GetAll method of BookserviceImpl

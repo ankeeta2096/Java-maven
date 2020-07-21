@@ -1,0 +1,1 @@
+javaw -jar  bookmanagement-0.0.1-SNAPSHOT.war --spring.profiles.active=QA --server.port=9002

@@ -1,0 +1,5 @@
+com.cybage.bookmanagement
+com.cybage.bookmanagement.controller
+com.cybage.bookmanagement.entity
+com.cybage.bookmanagement.repository
+com.cybage.bookmanagement.service

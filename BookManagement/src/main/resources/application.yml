@@ -1,0 +1,23 @@
+server:
+    port: 8080
+spring:
+    datasource:
+        driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+        password: cybage@123
+        url: jdbc:sqlserver://ankeetas;databaseName=book1
+        username: sa
+   
+---
+
+spring:
+  profiles: QA
+  datasource:
+        
+        url: jdbc:sqlserver://ankeetas;databaseName=book_dev
+server:
+    port: 8084
+    
+---
+
+spring:
+  profiles: dev
